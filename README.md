@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @arshpreetsaini
-- 👀 I’m interested in IoT
-- 🌱 I’m currently learning Python, C
-- 💞️ I’m looking to collaborate on nothing as of now
-- 📫 How to reach me arshpreetsaini716@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: nothing
+# Hi, I'm Arsh! 👋
+
+🎓 CSE (IoT) Student
+💻 Learning Java + DSA
+🎯 Targeting Placements 2027
+📍 Kolkata, India
+
+## 🛠 Skills
+- Java
+- Data Structures & Algorithms
+- IoT (Arduino, Raspberry Pi)
+- Git & GitHub
+
+## 📚 Currently Learning
+- Java Collections
+- DSA Problem Solving
+- LeetCode Daily Practice
+
+## 🔗 Connect
+- (https://www.linkedin.com/in/arshpreet-singh-81718035a)
 
 <!---
 arshpreetsaini/arshpreetsaini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
